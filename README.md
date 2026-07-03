@@ -1,3 +1,5 @@
 YOLO 😜
 
 A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer)
+
+Shark 🦈
